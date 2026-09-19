@@ -32,15 +32,16 @@ So I made a 6 Switch MacroPad ,which has a rotor encoder at the top for brightne
 
 | Item | Quantity | Total Price (USD) | Link |
 |---|---:|---:|---|
-| PCB (JLCPCB) | — | 4.00 | [JLCPCB](https://jlcpcb.com) |
-| PCB Shipping | — | 12.74 | [JLCPCB](https://jlcpcb.com) |
-| Seeed Studio XIAO RP2040 | 1 | 6.10 | [Robu/Robocraze](https://robocraze.com/products/seeed-studio-xiao-rp2040-development-board) |
-| Switches + Keycaps | 6 | 0.00 *(Already have)* | [Meckeys](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/akko-v3-pro-cream-black-switch/) |
-| Diodes | 6 | 0.00 *(Already have)* | [Amazon India](https://www.amazon.in/Electronic-Spices-Inverse-Voltage-Rectifier/dp/B0BGX995MB/) |
-| 0.91" OLED Screen | 1 | 0.00 *(Already have)* | [Amazon India](https://www.amazon.in/Robocraze-Display-Module-Interface-Arduino/dp/B084H9HLCS/) |
-| Rotary Encoder | 1 | 0.00 *(Already have)* | [Amazon India](https://www.amazon.in/CentIoT-Encoder-Digital-Potentiometer-Control/dp/B0888RVZSN/) |
-| SK6812MINI-E | 6 | 0.00 *(Already have)* | [ET Store](https://www.etstore.in/products/e9974) |
+| PCB (JLCPCB) | — | 4.00 | (https://jlcpcb.com) |
+| PCB Shipping | — | 12.74 | (https://jlcpcb.com) |
+| Seeed Studio XIAO RP2040 | 1 | 6.10 |(https://robocraze.com/products/seeed-studio-xiao-rp2040-development-board) |
+| Switches + Keycaps | 6 | 0.00 *(Already have)* | (https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/akko-v3-pro-cream-black-switch/) |
+| Diodes | 6 | 0.00 *(Already have)* | (https://www.amazon.in/Electronic-Spices-Inverse-Voltage-Rectifier/dp/B0BGX995MB/) |
+| 0.91" OLED Screen | 1 | 0.00 *(Already have)* | (https://www.amazon.in/Robocraze-Display-Module-Interface-Arduino/dp/B084H9HLCS/) |
+| Rotary Encoder | 1 | 0.00 *(Already have)* |(https://www.amazon.in/CentIoT-Encoder-Digital-Potentiometer-Control/dp/B0888RVZSN/) |
+| SK6812MINI-E | 6 | 0.00  | (https://www.etstore.in/products/e9974) |
+|HOTSWAP| 1 PACK (10 pieces )|0.9 |https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/
 
 ## 💰 Total Cost
 
-**Total: ₹22.84 USD**
+**Total: 23.74 USD**
