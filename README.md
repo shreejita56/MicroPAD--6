@@ -51,7 +51,7 @@ So I made a 6 Switch MacroPad ,which has a rotor encoder at the top for brightne
 
 ## Assembly Instructions
 
-So first we will solder the Xiao Rp2040 Board on the lower side of the PCB. We will be using SMD Soldering for this 
+So first we will solder the Xiao Rp2040 Board on the lower side of the PCB. We will be using SMD Soldering for that . Same for the Hot Swap as well . For the Hot Swap connection . first tin the pads well with solder then place the hot swap and use the soldering iron to heat it. the hot swaps will automatically align perfectly then add the diodes and solder them . for the LEDS first place the leds onto the pad then solder it via using a decent amount of flux. SO that the connections are prefect then at the END align the screen and solder it though the pins . then place it on the base then add the switches onto the hotswap and place the top layer CAD . Screw everything down and you are good to go.
 
 
 
