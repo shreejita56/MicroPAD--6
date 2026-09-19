@@ -13,7 +13,7 @@ So I made a 6 Switch MacroPad ,which has a rotor encoder at the top for brightne
 
 
 
-## 🧰 Bill of Materials
+## Bill of Materials
 
 | Item | Quantity | Total Price (USD) | Link |
 |---|---:|---:|---|
@@ -27,7 +27,7 @@ So I made a 6 Switch MacroPad ,which has a rotor encoder at the top for brightne
 | SK6812MINI-E | 6 | 0.00  | (https://www.etstore.in/products/e9974) |
 |HOTSWAP| 1 PACK (10 pieces )|0.9 |https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/
 
-## 💰 Total Cost
+## Total Cost
 
 **Total: 23.74 USD**
 
@@ -47,6 +47,12 @@ So I made a 6 Switch MacroPad ,which has a rotor encoder at the top for brightne
 
  <img width="642" height="632" alt="Screenshot 2026-09-19 042501" src="https://github.com/user-attachments/assets/023618b8-d49e-4b01-b552-6231ed915fd3" />
 <img width="675" height="472" alt="Screenshot 2026-09-19 042512" src="https://github.com/user-attachments/assets/f3faab7b-2c49-4fbc-9b2d-cb593d34cd04" />
+
+
+## Assembly Instructions
+
+So first we will solder the Xiao Rp2040 Board on the lower side of the PCB. We will be using SMD Soldering for this 
+
 
 
 
